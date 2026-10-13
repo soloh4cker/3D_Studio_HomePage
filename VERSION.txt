@@ -1,0 +1,2 @@
+3D Studio Homepage 1.0
+GitHub Pages package. Edit settings.js, then upload the extracted files.
